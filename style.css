@@ -1,0 +1,47 @@
+.navbar{
+    display: inline; background-color: rgb(255, 0, 179);
+}
+
+* {
+    font-family:"roboto" 
+}
+.title{
+    text-align: center;
+    background-image:url("https://img.emg-services.net/institutes/institute16014/aachen.jpg");
+    font-size: 75px;
+    padding: 40px;
+    color: rgb(255, 0, 179);
+}
+header{
+    background-color: rgb(255, 0, 179);
+}
+.btn{
+    color: white; font-size: 20px;
+}
+p{
+    font-size: 30px; text-align: center;font-family: cursive;
+}
+footer{
+    background-color: rgb(255, 0, 179);
+    text-align: center;
+}
+#top{
+    color: rgb(255, 0, 179);
+}
+a{
+    font-family: fantasy; text-align: center;
+}
+.color{
+    color: rgb(255, 0, 179); font-size: 25px;
+}
+iframe.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+ul{
+    font-size: 20px;
+}
+li{
+    list-style-type: none;
+}
